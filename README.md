@@ -22,7 +22,6 @@ Asignación y ejecución del presupuesto de egresos de la federación
 + [zip] Asignación y Ejecución del Presupuesto deEgresos 2009: https://www.secciones.hacienda.gob.mx/work/models/estadisticas_oportunas/datos_abiertos_eopf/asignacion_ejecucion_2009.zip
 + [csv] Asignación y Ejecución del Presupuesto deEgresos 2008: https://www.secciones.hacienda.gob.mx/work/models/estadisticas_oportunas/datos_abiertos_eopf/asignacion_ejecucion_2008.csv
 + [zip] Asignación y Ejecución del Presupuesto deEgresos 2008: https://www.secciones.hacienda.gob.mx/work/models/estadisticas_oportunas/datos_abiertos_eopf/asignacion_ejecucion_2008.zip
-+ [csv] Asignación y Ejecución del Presupuesto deEgresos 2007: https://www.secciones.hacienda.gob.mx/work/models/estadisticas_oportunas/datos_abiertos_eopf/asignacion_ejecucion_2007.csv
 + [zip] Asignación y Ejecución del Presupuesto deEgresos 2007: https://www.secciones.hacienda.gob.mx/work/models/estadisticas_oportunas/datos_abiertos_eopf/asignacion_ejecucion_2007.zip
 + [csv] Asignación y Ejecución del Presupuesto deEgresos 2007: https://www.secciones.hacienda.gob.mx/work/models/estadisticas_oportunas/datos_abiertos_eopf/asignacion_ejecucion_2007.csv
 + [zip] Asignación y Ejecución del Presupuesto deEgresos 2006: https://www.secciones.hacienda.gob.mx/work/models/estadisticas_oportunas/datos_abiertos_eopf/asignacion_ejecucion_2006.zip
